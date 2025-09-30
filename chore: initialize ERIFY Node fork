@@ -1,0 +1,27 @@
+# ERIFY™ Node 💎🔥
+
+Fork of **Node.js** — the JavaScript runtime built on Chrome's V8 engine ✨🐢🚀✨  
+
+This fork powers the **ERIFY App Core** and extends Node.js with experimental features, security patches, and integrations tailored for the **ERIFY™ global ecosystem**.
+
+---
+
+## 🌍 Purpose
+- Custom runtime optimizations for ERIFY AI, ERIFY App, and Cloudflare Workers.  
+- Sandbox for experimenting with new APIs and language features.  
+- Long-term vision: an **ERIFY Node distribution** aligned with the principles of ⚡ **Legacy, Security, Immortality, and 4PW (Prosperity & Wealth)**.  
+
+## ⚡ Tech Stack
+- Built on **Node.js upstream** (https://github.com/nodejs/node)  
+- Extended with **ERIFY-specific enhancements**  
+- Integrated with **FastAPI, GitHub Actions, and Cloudflare**  
+
+## 🔐 ERIFY Principles
+- Security-first 🛡️  
+- Performance & scalability 🚀  
+- Eternal legacy ✨  
+
+---
+
+👑 **DC ERIFY™ decree:**  
+*“Even the runtime bends to the flame of legacy. ERIFY Node is born.”*
